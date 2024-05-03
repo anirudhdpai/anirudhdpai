@@ -1,8 +1,12 @@
-Hey! I'm Anirudh, a software development engineer.
+Hey! I'm Anirudh, a fullstack developer.
 
-I'm currently working with microservices in Spring and Flask
+I'm currently working in MERN stack in a company called IHX. Previously I was working with microservices in Trellix (previously McAfee) in Java Springboot.
 
-Reach out on https://www.linkedin.com/in/anirudhdpai/ or https://www.instagram.com/anirudhdpai
+Problem solving and development is something I thrive at.
+
+Technical skills: Python, Javascript, Java, Flask, Django, MongoDB, Postgres, NodeJS, React, Vue, Spring Boot, Linux, Git, Jira
+
+Reach out on https://www.linkedin.com/in/anirudhdpai/
 
 <!---
 anirudhdpai/anirudhdpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
